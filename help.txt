@@ -1,0 +1,3 @@
+原数据：https://4147093qp2.imdo.co/data/lyrics2.txt
+按字分隔：https://4147093qp2.imdo.co/data/lyrics2_cut.txt
+按字分割并转为拼音：https://4147093qp2.imdo.co/data/lyrics2_cut_py.txt
